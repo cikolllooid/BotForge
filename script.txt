@@ -1,0 +1,16 @@
+"/start":
+  text: "Hello im new bot:"
+  buttons:
+        "hello": " "
+        "help": " "
+  actions_for_button:
+        "hello": "im glad to see you"
+"/help":
+  text: "how i can help you"
+  inline_buttons:
+        "lets started": "change the template to create your own tg bot"
+        "youtube": "https://www.youtube.com/"
+  actions_for_inline:
+        "change the template to create your own tg bot": "hello"
+"i need you":
+    text: "im here to help you"
