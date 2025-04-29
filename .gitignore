@@ -1,2 +1,4 @@
 /.venv
 exx.py
+/.idea
+/.__pycache__
